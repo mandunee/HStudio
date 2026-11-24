@@ -1,0 +1,3 @@
+*.hsm
+__pycache__/
+Songs/
